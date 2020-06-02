@@ -1,3 +1,2 @@
-# js-redbze
+#SRVCodesJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-redbze)
